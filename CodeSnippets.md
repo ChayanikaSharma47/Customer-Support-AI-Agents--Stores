@@ -5,8 +5,6 @@
 <img width="986" height="537" alt="Screenshot 2026-09-17 221921" src="https://github.com/user-attachments/assets/8a290a20-7c25-4efa-8349-0487c1d86e83" />
 
 ### After basic data cleaning such as missing rows etc --> 2811774 results
-<img width="986" height="537" alt="Screenshot 2026-09-17 221921" src="https://github.com/user-attachments/assets/86c4d9e2-1ae6-478d-90b0-45a048d6c15a" />
-
 ### Out of these --> selecting results related to brand - TESCO
 ### Cleaning dataset - for null values, URL, special characters and id
 ### Reconstructing threads of conversation - mapping customer and support conversations
